@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/javafx-sdk-21.0.8/lib/*.jar",
+    "lib/opencv-4120.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ]
+}
