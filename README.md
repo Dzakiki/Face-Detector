@@ -73,3 +73,9 @@ If you'd like, I can:
 
 Enjoy exploring the face-detector example!
 
+## References / Learned from
+
+- I learned and adapted ideas from the `opencv-java/face-detection` repository:
+  https://github.com/opencv-java/face-detection
+
+
